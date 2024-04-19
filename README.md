@@ -43,7 +43,7 @@ The React Registration Component is a project that consists of a basic registrat
 To run the project locally on your machine, follow these steps:
 
 - Clone this repository to your local machine.
-- Make sure you have Node.js installed on your machine. Download Node here
+- Make sure you have Node.js installed on your machine. [Download Node here](https://nodejs.org/en/download/)
 - In the terminal, navigate to the project directory.
 - Run the command npm install to install the dependencies.
 - Run the command npm start to start the development server.
